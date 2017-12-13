@@ -7,5 +7,7 @@ Simple React app using Parcel as build tool
 
 To run the app you must need Node 8 or later
 
-`npm install`
-`npm start`
+```
+npm install
+npm start
+```
